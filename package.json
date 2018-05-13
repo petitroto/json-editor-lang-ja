@@ -1,0 +1,22 @@
+{
+  "name": "json-editor-lang-ja",
+  "version": "1.0.0",
+  "description": "Japanese Translation strings for json-editor",
+  "main": "json-editor-lang-ja.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/petitroto/json-editor-lang-ja.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/petitroto/json-editor-lang-ja/issues"
+  },
+  "homepage": "https://github.com/petitroto/json-editor-lang-ja#readme",
+  "dependencies": {
+    "json-editor": "^0.7.28"
+  }
+}
